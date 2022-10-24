@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ohmyilya
 - 👀 I’m interested in coding, playing chess, long trails and hikes!
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on interesting projects.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on ads projects.
 - 📫 How to reach me ...
 
 <!---
