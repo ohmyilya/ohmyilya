@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ohmyilya
+- 👋 Hi, I’m Ilya @ohmyilya
 - 👀 I’m interested in coding, playing chess, long trails and hikes!
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on projects.
