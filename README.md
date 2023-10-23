@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">✩&emsp;ohmyilya&emsp;✩</h1>
+    <h1 align="center">&emsp;ohmyilya&emsp;</h1>
 </p>
 <br>
 <p align="center">
