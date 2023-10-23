@@ -1,4 +1,11 @@
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ilya-root&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-
-![](https://komarev.com/ghpvc/?username=ohmyilya)
+<p align="center">
+    <h1 align="center">✩&emsp;ohmyilya&emsp;✩</h1>
+</p>
+<br>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=green">
+</p>
+<p align="center">
+    <a href="https://leetcode.com/ilya-root/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/ohmyilya"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmyilya&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
