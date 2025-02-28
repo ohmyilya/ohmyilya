@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
     <h1 align="center">&emsp;ohmyilya&emsp;</h1>
 </p>
 <br>
