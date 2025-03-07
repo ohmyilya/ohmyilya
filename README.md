@@ -1,6 +1,5 @@
-<p align="center">
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ilya-root?ext=heatmap)
-</p>
+
 <h1 align="center">&emsp;ohmyilya&emsp;</h1>
 <br>
 <p align="center">
